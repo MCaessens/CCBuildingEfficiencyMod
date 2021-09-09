@@ -1,4 +1,4 @@
-# CCBuildingEfficiencyMod
+# Cookie Clicker Building Efficiency Mod
 This mod of Cookie Clicker shows the efficiency of buying buildings.
 
 ### How to use?
