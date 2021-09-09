@@ -10,6 +10,6 @@ When you have done this step, a folder will open with multiple files in it. You 
 
 When you are here, you can copy and paste the folder you made with the info.txt and the main.js file into the local folder.
 
-Then you just go to `options` -> `manage mods` and the Building Efficiency mod should be in the list. Then you just click `Enable` and you should be done!
+And last but not least, you need to open your game and go to `options` -> `manage mods` and the Building Efficiency mod should be in the list. Then you just click `Enable` and you should be done!
 
 ## THIS MOD DOES NOT DISABLE GETTING ACHIEVEMENTS
