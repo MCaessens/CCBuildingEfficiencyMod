@@ -1,3 +1,4 @@
+// COMMENTED CODE IS FOR TESTING PURPOSES IT WILL BE REMOVED SOON.
 Game.registerMod("building efficiency mod",{
 	init:function()
 	{
@@ -6,7 +7,6 @@ Game.registerMod("building efficiency mod",{
 		Game.registerHook('draw', [() => this.checkForNewUnlockedUpgrades(), () => this.updateEfficiencies()]);
 		// this.addMissedGoldenCookies();
 		Game.registerHook('reincarnate', () => this.removeEfficiencyDivs());
-		// Game.Loader.Replace('perfectCookie.png',this.dir+'/coolCookie.png');
 	},
 	save:function()
 	{
