@@ -12,4 +12,4 @@ When you are here, you can copy and paste the folder you made with the info.txt 
 
 Then you just go to options -> manage mods and the Building Efficiency mod should be in the list. Then you just click `Enable` and you should be done!
 
-## THIS MOD DOES NOT DISABLE GETTING ACHIEVEMENTS.
+## THIS MOD DOES NOT DISABLE GETTING ACHIEVEMENTS
